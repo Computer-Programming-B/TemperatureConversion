@@ -1,6 +1,6 @@
 Temperature Conversion
 ======================
-Your assignment is to write a program that converts a list of temperatures in Fahrenheit to Celsius and displays the result. The formula to convert Fahrenheit to Celsius is *Celisus =(Fahrenheit-32)(5/9)*
+Your assignment is to write a program that converts a list of temperatures in Fahrenheit to Celsius and displays the result. The formula to convert Fahrenheit to Celsius is *Celisus =(Fahrenheit-32)(5/9)*. You may find slides 121 - 135 of the PythonProcessing.pptx PowerPoint slides helpful. This assignment is very similar to the program on slide 135.
 
 Suggested Steps to complete this assignment:
 1. Start a new program in Processing. 
