@@ -6,6 +6,6 @@ Suggested Steps to complete this assignment:
 1. Start a new Python program in repl.it and give it a meaningful name like `TemperatureConversion`. 
 2. Create a list of temperatures with code like `temps = [212,32,-40]`
 3. Create a `for each` loop to traverse the list and `print()` the numbers in the list to the screen
-4. Now add more `print()` statements to the for each loop that labels the temperatures, convert them to Celsius and displays the results. Remember that an extra argument `end=' '` in a `print()` will end the line with a space rather than a newline character. Your output should look something like this.   
+4. Now add more `print()` statements to the for each loop that labels the temperatures, converts them to Celsius and displays the results. Remember that an extra argument `end=' '` in a `print()` will end the line with a space rather than a newline character. Your output should look something like this.   
 ![Temperature Conversion screenshot](TemperatureConversion.png)
 5. Submit your Python program by choosing *Share | Copy repl.it link* and adding the link to the google classroom assignment.
